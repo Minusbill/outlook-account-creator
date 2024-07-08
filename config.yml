@@ -1,3 +1,3 @@
 threads: 5                                           # THREADS Amount
-solver: ""                                           # CAPSOLVER , CAPBYPASS
-capKey: ""                                           # CAPTCHA KEY  
+solver: "CAPSOLVER"                                           # CAPSOLVER , CAPBYPASS
+capKey: "CAP-C49E7528EA39932BBCA1F9A69F019924"                                           # CAPTCHA KEY  
